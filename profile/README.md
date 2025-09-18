@@ -46,8 +46,8 @@ graph TB
 
     style Organization fill:#444,stroke:#333,stroke-width:2px
     style OrgMembers fill:#888,stroke:#333,stroke-width:1px
-    style Repo1 fill:#666,stroke:#333,stroke-width:1px
-    style Repo2 fill:#666,stroke:#333,stroke-width:1px
+    style Repo1 fill:#666,stroke:#333,stroke-width:4px
+    style Repo2 fill:#666,stroke:#333,stroke-width:4px
     style RepoMembers1 fill:#888,stroke:#333,stroke-width:1px
     style RepoMembers2 fill:#888,stroke:#333,stroke-width:1px
 ```
