@@ -10,7 +10,7 @@ De medlemmar som önskar att utveckla inom ramen av detta begär medlemsskap i o
 Själva organisationens (DiVA technical network) medlemmar består primärt av användare som skapar sina egna repon. När en medlem skapar ett repo blir den även administratör för detta repo. Varje repos administratör ansvarar själv för sin kod, dess utveckling och att säkerställa att de är funktionella. 
 Övriga användare som vill bidra begär medlemskap i dessa repon och det är upp till varje administratör att själva hantera medlemmar och dess rättigheter. Dessa läggs till som Collaborators.
 <details>
-<summary>Diagram av strukturen för organisation, medlemmar, repo och repo-medlemmar</summary>
+<summary>Diagram av strukturen för organisation (DiVA technical network), medlemmar, repo och repo-medlemmar</summary>
 
 ```mermaid
 graph TB
