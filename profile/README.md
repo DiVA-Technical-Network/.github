@@ -14,24 +14,24 @@ Själva organisationens (DiVA technical network) medlemmar består primärt av a
 
 ```mermaid
 graph TB
-    subgraph Organization [DiVA technical network]
-        subgraph OrgMembers [Org-medlemmar]
+    subgraph Organization [**DiVA technical network**]
+        subgraph OrgMembers [**Org-medlemmar**]
             Medlem1[Medlem 1]
             Medlem2[Medlem 2]
         end
 
-        subgraph Repo2 [Repo]
+        subgraph Repo2 [**Repo**]
             Admin2[Admin: Medlem 2]
-            subgraph RepoMembers2 [Repo-medlemmar]
+            subgraph RepoMembers2 [**Repo-medlemmar**]
                 repo2Maintain[Collaborator: maintain]
                 repo2Write[Collaborator: write]
                 repo2Read[Collaborator: read]
             end
         end
 
-        subgraph Repo1 [Repo]
+        subgraph Repo1 [**Repo**]
             Admin1[Admin: Medlem 1]
-            subgraph RepoMembers1 [Repo-medlemmar]
+            subgraph RepoMembers1 [**Repo-medlemmar**]
                 repo1Maintain[Collaborator: maintain]
                 repo1Write[Collaborator: write]
                 repo1Read[Collaborator: read]
