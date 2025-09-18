@@ -1,6 +1,6 @@
 # DiVA Technical Network
 
-DiVA technical network är en gemensam hub för script, verktyg och program knutna till kommunikation mot DiVA:s nya API. Nätverket välkomnar alla användare som är intresserade av att delta i utvecklingen av dessa verktyg, antingen genom aktiv programmering eller diskussioner.
+DiVA technical network är en gemensam hub för skript, verktyg och program knutna till kommunikation mot DiVA:s nya API. Nätverket välkomnar alla användare som är intresserade av att delta i utvecklingen av dessa verktyg, oavsett om det är genom aktiv programmering eller deltagande i diskussioner. Målet är att samla utveckling och kunskapsutbyte till en gemensam plattform där varje deltagare kan påverka och förbättra verktygen.
 
 Github-organisationen ägs av Uppsala universitet, men utvecklingen drivs gemensamt av aktiva medlemmar inom DiVA. För att underlätta utveckling och använding så har vi tagit fram ett antal riktlinjer.
 
