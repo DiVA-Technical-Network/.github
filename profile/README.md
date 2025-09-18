@@ -7,7 +7,7 @@ Github-organisationen ägs av Uppsala universitet, men utvecklingen drivs gemens
 De medlemmar som önskar att utveckla inom ramen av detta begär medlemsskap i organisationen för att sedan skapa sina egna repon som de själva administrerar.
 
 ## Medlemskap, ansvar och underhåll av kod:
-Själva organisationens medlemmar är primärt användare som skapar sina egna repon. När en medlem skapar ett repo blir den även administratör för detta repo. Varje repos administratör ansvarar själv för sin kod, dess utveckling och att säkerställa att de är funktionella. 
+Själva organisationens (DiVA technical network) medlemmar är primärt användare som skapar sina egna repon. När en medlem skapar ett repo blir den även administratör för detta repo. Varje repos administratör ansvarar själv för sin kod, dess utveckling och att säkerställa att de är funktionella. 
 Övriga användare som vill bidra begär medlemskap i dessa repon och det är upp till varje administratör att själva hantera medlemmar och dess rättigheter. Dessa läggs till som Collaborators.
 <details>
 <summary>Diagram av strukturen för organisation, medlemmar, repo och repo-medlemmar</summary>
