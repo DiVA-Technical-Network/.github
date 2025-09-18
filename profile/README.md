@@ -4,7 +4,7 @@ DiVA technical network är en gemensam hub för skript, verktyg och program knut
 
 Github-organisationen ägs av Uppsala universitet, men utvecklingen drivs gemensamt av aktiva medlemmar inom DiVA. För att underlätta utveckling och använding så har vi tagit fram ett antal riktlinjer.
 
-De medlemmar som önskar att utveckla inom ramen av detta begär medlemsskap i organisationen för att sedan skapa sina egna repon som de själva administrerar.
+De medlemmar som önskar att utveckla inom ramen av detta begär medlemsskap i DiVA technical network för att sedan skapa sina egna repon som de själva administrerar.
 
 ## Medlemskap, ansvar och underhåll av kod:
 Själva organisationens (DiVA technical network) medlemmar består primärt av användare som skapar sina egna repon. När en medlem skapar ett repo blir den även administratör för detta repo. Varje repos administratör ansvarar själv för sin kod, dess utveckling och att säkerställa att de är funktionella. 
