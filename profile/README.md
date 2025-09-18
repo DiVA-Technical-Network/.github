@@ -6,7 +6,7 @@ Github-organisationen ägs av Uppsala universitet, men utvecklingen drivs gemens
 
 De medlemmar som önskar att utveckla inom ramen av detta begär medlemsskap i DiVA technical network för att sedan skapa sina egna repon som de själva administrerar.
 
-## Medlemskap, ansvar och underhåll av kod:
+## Medlemskap, ansvar och underhåll av kod
 Själva organisationens (DiVA technical network) medlemmar består primärt av användare som skapar sina egna repon. När en medlem skapar ett repo blir den även administratör för detta repo. Varje repos administratör ansvarar själv för sin kod, dess utveckling och att säkerställa att de är funktionella. 
 Övriga användare som vill bidra begär medlemskap i dessa repon och det är upp till varje administratör att själva hantera medlemmar och dess rättigheter. Dessa läggs till som Collaborators.
 <details>
@@ -54,7 +54,7 @@ graph TB
 
 </details>
 
-## Repo:
+## Repo
 Repot förväntas att ha en main-branch där all kod ska vara stabil och körbar. All utveckling ska därför ske inom feature branches och endast merge'as efter att koden är inspekterad och godkänd av ansvarig ägare eller maintainers. På grund av detta är det önskvärt att det, där det finns möjlighet, även inkluderas tester för incheckad kod.
 <details>
 <summary>Riktlinjer för repo</summary>
@@ -69,7 +69,7 @@ _Vid eventuella konflikter gällande kodkvalité eller design så skall dessa l�
 
 </details>
 
-## Diskussionsyta:
+## Diskussionsyta
 Diskussionsytan ska användas för att lyfta frågor och ärenden som är förknippat med utveckling av tekniska lösningar mot DiVA. Detta inkluderar exempelvis verktyg, integration och förslag på funktioner samt förbättringar av programvara.
 <details>
 <summary>Riktlinjer för diskussionsyta</summary>
