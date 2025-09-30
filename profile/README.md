@@ -81,3 +81,16 @@ Diskussionsytan ska användas för att lyfta frågor och ärenden som är förkn
 
 </details>
 
+## Länkar, dokumentation och exempel
+### CORA
+* [Nationella system](https://github.com/lsu-ub-uu)
+  
+### Dokumentation
+* [API-dokumentation](https://cora.epc.ub.uu.se/diva/rest/)
+* [API login-dokumentation](https://cora.epc.ub.uu.se/diva/login/)
+* [Fitnesse Systemone (CORA)](https://cora.epc.ub.uu.se/systemone/fitnesse/FrontPage)
+* [Fitnesse DiVA](https://cora.epc.ub.uu.se/diva/fitnesse/FrontPage)
+
+### Implementationsexempel
+* [Migrationscript (Python)](https://github.com/lsu-ub-uu/cora-datadevelopment)
+
