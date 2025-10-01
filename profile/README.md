@@ -94,5 +94,5 @@ Diskussionsytan ska användas för att lyfta frågor och ärenden som är förkn
 ### Kodexempel
 * [Migrationscript (Python)](https://github.com/lsu-ub-uu/cora-datadevelopment)
 
-### Diskussionsyta för API
+### Diskussionsyta
 * [Diskussioner kring CORA:s API](https://github.com/DiVA-Technical-Network/discussions)
