@@ -91,7 +91,7 @@ Diskussionsytan ska användas för att lyfta frågor och ärenden som är förkn
 * [Fitnesse Systemone (CORA)](https://cora.epc.ub.uu.se/systemone/fitnesse/FrontPage)
 * [Fitnesse DiVA](https://cora.epc.ub.uu.se/diva/fitnesse/FrontPage)
 
-### Implementationsexempel
+### Kodexempel
 * [Migrationscript (Python)](https://github.com/lsu-ub-uu/cora-datadevelopment)
 
 ### Diskussionsyta för API
