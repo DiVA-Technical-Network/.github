@@ -76,7 +76,7 @@ Diskussionsytorna ska användas för att lyfta frågor och ärenden som är för
 
 * Skapa tydliga rubriker och innehåll som beskriver syfte och eventuell bakgrund till diskussionen.
 * För att underlätta organisering och moderering ska kategorier och etiketter användas för varje diskussion.
-* Moderering sker av ägare eller medlemmar av teamet Maintain.
+* Moderering sker av ägare eller utvalda medlemmar
 * För eventuella buggrapporter ska Issues användas, inte diskussionsytan.
 
 </details>
