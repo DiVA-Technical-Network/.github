@@ -70,7 +70,7 @@ _Vid eventuella konflikter gällande kodkvalité eller design så skall dessa l�
 </details>
 
 ## Diskussionsyta
-Diskussionsytan ska användas för att lyfta frågor och ärenden som är förknippat med utveckling av tekniska lösningar mot DiVA. Detta inkluderar exempelvis verktyg, integration och förslag på funktioner samt förbättringar av programvara.
+Diskussionsytorna ska användas för att lyfta frågor och ärenden som är förknippat med utveckling av tekniska lösningar mot DiVA. Detta inkluderar exempelvis verktyg, integration och förslag på funktioner samt förbättringar av programvara.
 <details>
 <summary>Riktlinjer för diskussionsyta</summary>
 
